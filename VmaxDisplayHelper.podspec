@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name = "VmaxDisplayHelper"
-  spec.version = "0.0.1"
+  spec.version = "1.0.0"
   spec.summary = "VmaxDisplayHelper allows the publishers to display banner ads"
   spec.description = "VmaxDisplayHelper allows the publishers to display banner ads or ads that contain HTML, image or rich media ad format"
   spec.homepage = "https://www.vmax.com"
