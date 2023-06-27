@@ -12,22 +12,6 @@
 		<data>
 		jBt0LRrGcOAPYYPMzImLhz8N6Ic=
 		</data>
-		<key>Frameworks/Vmax.framework/.swiftlint.yml</key>
-		<data>
-		jAHLdbG9V+an1K+jS2i3Nt2aqEE=
-		</data>
-		<key>Frameworks/Vmax.framework/Info.plist</key>
-		<data>
-		ELoaDEebXuhFGozT5MVYl6Oft+I=
-		</data>
-		<key>Frameworks/Vmax.framework/Vmax</key>
-		<data>
-		TsNyAHLp8Eij+lIoXnGLJg2d3OU=
-		</data>
-		<key>Frameworks/Vmax.framework/_CodeSignature/CodeResources</key>
-		<data>
-		4fIzUluAi8nsR5+cZgzcPZOmFss=
-		</data>
 		<key>Headers/VmaxDisplayHelper-Swift.h</key>
 		<data>
 		S7wZEgWJrqbeA7T9f6b5ufR3CGo=
@@ -83,34 +67,6 @@
 			<key>hash2</key>
 			<data>
 			zxlqqxWGPKe4mW1pnSiWqURC0B+gH+49X/TtCCPDa+o=
-			</data>
-		</dict>
-		<key>Frameworks/Vmax.framework/.swiftlint.yml</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JQFuBdxoQb9IMH/bZz2/9dH4CgFGoSq1dUnzMpztKFc=
-			</data>
-		</dict>
-		<key>Frameworks/Vmax.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OhGDs3+NnyxBhxnXW6a2x1GIYiqtGN5+FZFAfrS8qdk=
-			</data>
-		</dict>
-		<key>Frameworks/Vmax.framework/Vmax</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LD+gDIsKwc0eqBdPHhu3fLq9IDkGFMEo4l3s2Cydw5I=
-			</data>
-		</dict>
-		<key>Frameworks/Vmax.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IyVNJr9Akyg0gTTyHbk4RXyKze3POXDhfTI7u/UqBzM=
 			</data>
 		</dict>
 		<key>Headers/VmaxDisplayHelper-Swift.h</key>
