@@ -1,7 +1,7 @@
 framework module VmaxDisplayHelper {
   umbrella header "VmaxDisplayHelper.h"
-
   export *
+
   module * { export * }
 }
 

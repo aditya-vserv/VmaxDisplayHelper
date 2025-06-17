@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "VmaxDisplayHelper",
+    "printedName": "VmaxDisplayHelper",
     "children": [
       {
         "kind": "Import",
@@ -69,7 +69,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdDelegate",
-                "printedName": "Vmax.VmaxAdDelegate",
+                "printedName": "any Vmax.VmaxAdDelegate",
                 "usr": "s:4Vmax0A10AdDelegateP"
               }
             ],
@@ -131,6 +131,37 @@
             "declKind": "Func",
             "usr": "s:17VmaxDisplayHelper0a2AdB0C13getSignaturesSaySSGyFZ",
             "mangledName": "$s17VmaxDisplayHelper0a2AdB0C13getSignaturesSaySSGyFZ",
+            "moduleName": "VmaxDisplayHelper",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getRegexPatternSignatures",
+            "printedName": "getRegexPatternSignatures()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17VmaxDisplayHelper0a2AdB0C25getRegexPatternSignaturesSaySSGyFZ",
+            "mangledName": "$s17VmaxDisplayHelper0a2AdB0C25getRegexPatternSignaturesSaySSGyFZ",
             "moduleName": "VmaxDisplayHelper",
             "static": true,
             "declAttributes": [
@@ -227,6 +258,61 @@
           },
           {
             "kind": "Function",
+            "name": "set",
+            "printedName": "set(adInfo:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdInfo",
+                "printedName": "Vmax.VmaxAdInfo",
+                "usr": "s:4Vmax0A6AdInfoC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17VmaxDisplayHelper0a2AdB0C3set6adInfoy0A00adG0C_tF",
+            "mangledName": "$s17VmaxDisplayHelper0a2AdB0C3set6adInfoy0A00adG0C_tF",
+            "moduleName": "VmaxDisplayHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getVmaxAdInfo",
+            "printedName": "getVmaxAdInfo()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Vmax.VmaxAdInfo?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VmaxAdInfo",
+                    "printedName": "Vmax.VmaxAdInfo",
+                    "usr": "s:4Vmax0A6AdInfoC"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17VmaxDisplayHelper0a2AdB0C03getaD4Info0A00adF0CSgyF",
+            "mangledName": "$s17VmaxDisplayHelper0a2AdB0C03getaD4Info0A00adF0CSgyF",
+            "moduleName": "VmaxDisplayHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "shouldProcessRefresh",
             "printedName": "shouldProcessRefresh()",
             "children": [
@@ -260,7 +346,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdViewability",
-                "printedName": "Vmax.VmaxAdViewability",
+                "printedName": "any Vmax.VmaxAdViewability",
                 "usr": "s:4Vmax0A13AdViewabilityP"
               }
             ],
@@ -336,7 +422,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdAssetHelper",
-                "printedName": "Vmax.VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
                 "usr": "s:4Vmax0A13AdAssetHelperP"
               },
               {
@@ -370,7 +456,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdAssetHelper",
-                "printedName": "Vmax.VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
                 "usr": "s:4Vmax0A13AdAssetHelperP"
               },
               {
@@ -403,7 +489,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdAssetHelper",
-                "printedName": "Vmax.VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
                 "usr": "s:4Vmax0A13AdAssetHelperP"
               },
               {
@@ -437,7 +523,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdAssetHelper",
-                "printedName": "Vmax.VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
                 "usr": "s:4Vmax0A13AdAssetHelperP"
               },
               {
@@ -470,7 +556,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdAssetHelper",
-                "printedName": "Vmax.VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
                 "usr": "s:4Vmax0A13AdAssetHelperP"
               }
             ],
@@ -497,7 +583,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdAssetHelper",
-                "printedName": "Vmax.VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
                 "usr": "s:4Vmax0A13AdAssetHelperP"
               }
             ],
@@ -524,7 +610,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdAssetHelper",
-                "printedName": "Vmax.VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
                 "usr": "s:4Vmax0A13AdAssetHelperP"
               }
             ],
@@ -763,6 +849,20 @@
           },
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -902,7 +1002,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdDelegate",
-                "printedName": "Vmax.VmaxAdDelegate",
+                "printedName": "any Vmax.VmaxAdDelegate",
                 "usr": "s:4Vmax0A10AdDelegateP"
               }
             ],
@@ -1060,6 +1160,61 @@
           },
           {
             "kind": "Function",
+            "name": "set",
+            "printedName": "set(adInfo:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxAdInfo",
+                "printedName": "Vmax.VmaxAdInfo",
+                "usr": "s:4Vmax0A6AdInfoC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17VmaxDisplayHelper0a2AdB12InterstitialC3set6adInfoy0A00adH0C_tF",
+            "mangledName": "$s17VmaxDisplayHelper0a2AdB12InterstitialC3set6adInfoy0A00adH0C_tF",
+            "moduleName": "VmaxDisplayHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getVmaxAdInfo",
+            "printedName": "getVmaxAdInfo()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Vmax.VmaxAdInfo?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VmaxAdInfo",
+                    "printedName": "Vmax.VmaxAdInfo",
+                    "usr": "s:4Vmax0A6AdInfoC"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17VmaxDisplayHelper0a2AdB12InterstitialC03getaD4Info0A00adG0CSgyF",
+            "mangledName": "$s17VmaxDisplayHelper0a2AdB12InterstitialC03getaD4Info0A00adG0CSgyF",
+            "moduleName": "VmaxDisplayHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "add",
             "printedName": "add(viewability:)",
             "children": [
@@ -1071,7 +1226,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdViewability",
-                "printedName": "Vmax.VmaxAdViewability",
+                "printedName": "any Vmax.VmaxAdViewability",
                 "usr": "s:4Vmax0A13AdViewabilityP"
               }
             ],
@@ -1098,7 +1253,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdAssetHelper",
-                "printedName": "Vmax.VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
                 "usr": "s:4Vmax0A13AdAssetHelperP"
               },
               {
@@ -1132,7 +1287,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdAssetHelper",
-                "printedName": "Vmax.VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
                 "usr": "s:4Vmax0A13AdAssetHelperP"
               },
               {
@@ -1165,7 +1320,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdAssetHelper",
-                "printedName": "Vmax.VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
                 "usr": "s:4Vmax0A13AdAssetHelperP"
               },
               {
@@ -1199,7 +1354,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdAssetHelper",
-                "printedName": "Vmax.VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
                 "usr": "s:4Vmax0A13AdAssetHelperP"
               },
               {
@@ -1232,7 +1387,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdAssetHelper",
-                "printedName": "Vmax.VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
                 "usr": "s:4Vmax0A13AdAssetHelperP"
               }
             ],
@@ -1259,7 +1414,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdAssetHelper",
-                "printedName": "Vmax.VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
                 "usr": "s:4Vmax0A13AdAssetHelperP"
               }
             ],
@@ -1286,7 +1441,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "VmaxAdAssetHelper",
-                "printedName": "Vmax.VmaxAdAssetHelper",
+                "printedName": "any Vmax.VmaxAdAssetHelper",
                 "usr": "s:4Vmax0A13AdAssetHelperP"
               }
             ],
@@ -1344,6 +1499,20 @@
             "printedName": "VmaxAd",
             "usr": "s:4Vmax0A2AdP",
             "mangledName": "$s4Vmax0A2AdP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -1447,6 +1616,34 @@
         "printedName": "WebKit",
         "declKind": "Import",
         "moduleName": "VmaxDisplayHelper"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VmaxDisplayHelper"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "VmaxDisplayHelper"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "VmaxDisplayHelper"
+      },
+      {
+        "kind": "Import",
+        "name": "DeveloperToolsSupport",
+        "printedName": "DeveloperToolsSupport",
+        "declKind": "Import",
+        "moduleName": "VmaxDisplayHelper"
       }
     ],
     "json_format_version": 8
@@ -1455,56 +1652,56 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxAdDisplay.swift",
       "kind": "BooleanLiteral",
-      "offset": 519,
+      "offset": 547,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxAdDisplay.swift",
       "kind": "BooleanLiteral",
-      "offset": 702,
+      "offset": 730,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxAdDisplay.swift",
       "kind": "StringLiteral",
-      "offset": 922,
+      "offset": 950,
       "length": 8,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxAdDisplay.swift",
       "kind": "StringLiteral",
-      "offset": 929,
+      "offset": 957,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxAdDisplayInterstitial.swift",
       "kind": "BooleanLiteral",
-      "offset": 544,
+      "offset": 572,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxAdDisplayInterstitial.swift",
       "kind": "BooleanLiteral",
-      "offset": 624,
+      "offset": 652,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxAdDisplayInterstitial.swift",
       "kind": "StringLiteral",
-      "offset": 758,
+      "offset": 786,
       "length": 8,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxAdDisplayInterstitial.swift",
       "kind": "StringLiteral",
-      "offset": 765,
+      "offset": 793,
       "length": 10,
       "value": "\"\""
     },
@@ -1514,6 +1711,55 @@
       "offset": 563,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5479,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5523,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5755,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5773,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5855,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5941,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/Library\/Developer\/Xcode\/DerivedData\/VmaxDisplayHelper-gwefdinamwkklhbrbayrdcyrhsrb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/VmaxDisplayHelper\/IntermediateBuildFilesPath\/VmaxDisplayHelper.build\/Release-iphonesimulator\/VmaxDisplayHelper.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 732,
+      "length": 12,
+      "value": "\"close_icon\""
     }
   ]
 }
