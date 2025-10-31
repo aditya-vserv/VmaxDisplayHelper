@@ -2,7 +2,7 @@
 //  VmaxDisplayHelper.h
 //  VmaxDisplayHelper
 //
-//  Created by Cloy Vserv on 13/12/22.
+//  Created by Admin_Vserv on 13/12/22.
 //
 
 #import <Foundation/Foundation.h>
