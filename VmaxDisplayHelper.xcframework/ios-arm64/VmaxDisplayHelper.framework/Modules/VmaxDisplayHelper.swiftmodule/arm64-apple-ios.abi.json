@@ -822,6 +822,233 @@
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isCardActive",
+            "printedName": "isCardActive()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17VmaxDisplayHelper0a2AdB0C12isCardActiveSbyF",
+            "mangledName": "$s17VmaxDisplayHelper0a2AdB0C12isCardActiveSbyF",
+            "moduleName": "VmaxDisplayHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "swipeMode",
+            "printedName": "swipeMode()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxCarouselSwipeMode",
+                "printedName": "Vmax.VmaxCarouselSwipeMode",
+                "usr": "s:4Vmax0A17CarouselSwipeModeO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17VmaxDisplayHelper0a2AdB0C9swipeMode0A00a13CarouselSwipeF0OyF",
+            "mangledName": "$s17VmaxDisplayHelper0a2AdB0C9swipeMode0A00a13CarouselSwipeF0OyF",
+            "moduleName": "VmaxDisplayHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isAdLoaded",
+            "printedName": "isAdLoaded()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17VmaxDisplayHelper0a2AdB0C02isD6LoadedSbyF",
+            "mangledName": "$s17VmaxDisplayHelper0a2AdB0C02isD6LoadedSbyF",
+            "moduleName": "VmaxDisplayHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getAdWidth",
+            "printedName": "getAdWidth()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17VmaxDisplayHelper0a2AdB0C03getD5WidthSiyF",
+            "mangledName": "$s17VmaxDisplayHelper0a2AdB0C03getD5WidthSiyF",
+            "moduleName": "VmaxDisplayHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getAdHeight",
+            "printedName": "getAdHeight()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17VmaxDisplayHelper0a2AdB0C03getD6HeightSiyF",
+            "mangledName": "$s17VmaxDisplayHelper0a2AdB0C03getD6HeightSiyF",
+            "moduleName": "VmaxDisplayHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setAdCompletionListener",
+            "printedName": "setAdCompletionListener(adCompletionListener:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VmaxCarouselAdCompletionListener",
+                "printedName": "any Vmax.VmaxCarouselAdCompletionListener",
+                "usr": "s:4Vmax0A28CarouselAdCompletionListenerP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17VmaxDisplayHelper0a2AdB0C03setD18CompletionListener02adfG0y0A00a8CarouseldfG0_p_tF",
+            "mangledName": "$s17VmaxDisplayHelper0a2AdB0C03setD18CompletionListener02adfG0y0A00a8CarouseldfG0_p_tF",
+            "moduleName": "VmaxDisplayHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setAdFocus",
+            "printedName": "setAdFocus()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17VmaxDisplayHelper0a2AdB0C03setD5FocusyyF",
+            "mangledName": "$s17VmaxDisplayHelper0a2AdB0C03setD5FocusyyF",
+            "moduleName": "VmaxDisplayHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setAdOutOfFocus",
+            "printedName": "setAdOutOfFocus()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17VmaxDisplayHelper0a2AdB0C03setD10OutOfFocusyyF",
+            "mangledName": "$s17VmaxDisplayHelper0a2AdB0C03setD10OutOfFocusyyF",
+            "moduleName": "VmaxDisplayHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setAdIsDisplayedInCarousel",
+            "printedName": "setAdIsDisplayedInCarousel(flag:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17VmaxDisplayHelper0a2AdB0C03setD21IsDisplayedInCarousel4flagySb_tF",
+            "mangledName": "$s17VmaxDisplayHelper0a2AdB0C03setD21IsDisplayedInCarousel4flagySb_tF",
+            "moduleName": "VmaxDisplayHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onAdLoaded",
+            "printedName": "onAdLoaded()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17VmaxDisplayHelper0a2AdB0C02onD6LoadedyyF",
+            "mangledName": "$s17VmaxDisplayHelper0a2AdB0C02onD6LoadedyyF",
+            "moduleName": "VmaxDisplayHelper",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -958,6 +1185,13 @@
             "printedName": "VmaxRefreshableAssetDelegate",
             "usr": "s:4Vmax0A24RefreshableAssetDelegateP",
             "mangledName": "$s4Vmax0A24RefreshableAssetDelegateP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "VmaxCarouselAd",
+            "printedName": "VmaxCarouselAd",
+            "usr": "s:4Vmax0A10CarouselAdP",
+            "mangledName": "$s4Vmax0A10CarouselAdP"
           }
         ]
       },
@@ -1665,15 +1899,29 @@
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxAdDisplay.swift",
+      "kind": "BooleanLiteral",
+      "offset": 829,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxAdDisplay.swift",
+      "kind": "BooleanLiteral",
+      "offset": 877,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxAdDisplay.swift",
       "kind": "StringLiteral",
-      "offset": 951,
+      "offset": 1059,
       "length": 8,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxAdDisplay.swift",
       "kind": "StringLiteral",
-      "offset": 958,
+      "offset": 1066,
       "length": 10,
       "value": "\"\""
     },
@@ -1708,51 +1956,86 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 564,
+      "offset": 557,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
+      "kind": "BooleanLiteral",
+      "offset": 606,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5498,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5590,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5480,
+      "offset": 5637,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5524,
+      "offset": 5681,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5801,
+      "offset": 5958,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5819,
+      "offset": 5976,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 5901,
+      "offset": 6058,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 5987,
+      "offset": 6144,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6437,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 6505,
+      "length": 67,
+      "value": "\"Couldn't calculate height for WKWebView using evaluateJavaScript.\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/Library\/Developer\/Xcode\/DerivedData\/VmaxDisplayHelper-gwefdinamwkklhbrbayrdcyrhsrb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/VmaxDisplayHelper\/IntermediateBuildFilesPath\/VmaxDisplayHelper.build\/Release-iphoneos\/VmaxDisplayHelper.build\/DerivedSources\/GeneratedAssetSymbols.swift",

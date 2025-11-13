@@ -325,6 +325,7 @@ SWIFT_CLASS("_TtC17VmaxDisplayHelper13VmaxAdDisplay")
 
 
 
+
 /// VmaxAdDisplayInterstitial allows you draw display <code>Interstitial</code> ad experiences .
 SWIFT_CLASS("_TtC17VmaxDisplayHelper25VmaxAdDisplayInterstitial")
 @interface VmaxAdDisplayInterstitial : NSObject
@@ -667,6 +668,7 @@ SWIFT_CLASS("_TtC17VmaxDisplayHelper13VmaxAdDisplay")
 @interface VmaxAdDisplay (SWIFT_EXTENSION(VmaxDisplayHelper))
 - (void)observeValueForKeyPath:(NSString * _Nullable)keyPath ofObject:(id _Nullable)object change:(NSDictionary<NSKeyValueChangeKey, id> * _Nullable)change context:(void * _Nullable)context;
 @end
+
 
 
 
