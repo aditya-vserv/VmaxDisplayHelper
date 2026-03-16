@@ -1900,28 +1900,35 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxAdDisplay.swift",
       "kind": "BooleanLiteral",
-      "offset": 829,
+      "offset": 830,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxAdDisplay.swift",
       "kind": "BooleanLiteral",
-      "offset": 877,
+      "offset": 866,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxAdDisplay.swift",
+      "kind": "BooleanLiteral",
+      "offset": 914,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxAdDisplay.swift",
       "kind": "StringLiteral",
-      "offset": 1059,
+      "offset": 1096,
       "length": 8,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxAdDisplay.swift",
       "kind": "StringLiteral",
-      "offset": 1066,
+      "offset": 1103,
       "length": 10,
       "value": "\"\""
     },
@@ -1956,86 +1963,86 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 557,
+      "offset": 611,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 606,
+      "offset": 660,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 5498,
+      "offset": 5552,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 5590,
+      "offset": 5644,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5637,
+      "offset": 5691,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5681,
+      "offset": 5735,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5958,
+      "offset": 6012,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5976,
+      "offset": 6030,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 6058,
+      "offset": 6163,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 6144,
+      "offset": 6511,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 6437,
+      "offset": 6653,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-helper-ios-display\/VmaxDisplayHelper\/VmaxDisplayHelper\/Source\/VmaxWebViewAssetHelper.swift",
       "kind": "StringLiteral",
-      "offset": 6505,
-      "length": 67,
-      "value": "\"Couldn't calculate height for WKWebView using evaluateJavaScript.\""
+      "offset": 6721,
+      "length": 75,
+      "value": "\"Couldn't calculate height for WKWebView using evaluateJavaScript. Reason:\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/Library\/Developer\/Xcode\/DerivedData\/VmaxDisplayHelper-gwefdinamwkklhbrbayrdcyrhsrb\/Build\/Intermediates.noindex\/ArchiveIntermediates\/VmaxDisplayHelper\/IntermediateBuildFilesPath\/VmaxDisplayHelper.build\/Release-iphoneos\/VmaxDisplayHelper.build\/DerivedSources\/GeneratedAssetSymbols.swift",
